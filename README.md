@@ -20,4 +20,29 @@ Adjusted model
 ![](Task 1 worksheet1.PNG)        ![](TASK1 Worksheet2.PNG)
 
 
+##Sales Data
+
+##Task 2
+The total Revenue and Profit generated
+The average Revenue and Units Sold for every order
+The total Discount given in $
+Total number of sales recorded
+The highest Profit generated
+Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
+
+
+##Task 3
+Using the Sales Data, 
+Calculate:
+The average revenue generated from each sale of ‘Paseo’
+The number of sales made in the Government and Midmarket segment
+The total revenue generated from the sales of ‘Montana’ in Canada
+In which Country, Segment and Month was the highest unit of goods sold?
+What is the total profit made in December
+
+
+![](Sales Data.xlsx)
+
+
+
 
