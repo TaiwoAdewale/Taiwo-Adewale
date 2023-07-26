@@ -15,7 +15,6 @@ Job type (Part-time, Freelance, Contract)
 Show only employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000
 split the employees’ full names into first name and last name. Check for duplicates and highlight if any (do not delete)
 
-Adjusted model
 
 
 ##Sales Data
@@ -34,6 +33,8 @@ Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales va
 
 
 ##Task 3
+
+![](SalesTask3.PNG)
 
 Using the Sales Data, 
 Calculate:
