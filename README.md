@@ -16,13 +16,13 @@ Show only employees who are ‘Freelancers’ and highlight the ones whose salar
 split the employees’ full names into first name and last name. Check for duplicates and highlight if any (do not delete)
 
 Adjusted model
-:-----------------------------:|:-------------------------------------
-![](Task 1 worksheet1.PNG)        ![](TASK1 Worksheet2.PNG)
 
 
 ##Sales Data
 
 ##Task 2
+
+![](SalesTask2.PNG)
 The total Revenue and Profit generated
 The average Revenue and Units Sold for every order
 The total Discount given in $
@@ -31,7 +31,10 @@ The highest Profit generated
 Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
 
 
+
+
 ##Task 3
+
 Using the Sales Data, 
 Calculate:
 The average revenue generated from each sale of ‘Paseo’
@@ -41,7 +44,7 @@ In which Country, Segment and Month was the highest unit of goods sold?
 What is the total profit made in December
 
 
-![](Sales Data.xlsx)
+
 
 
 
