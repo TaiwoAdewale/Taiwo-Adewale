@@ -15,6 +15,8 @@ Job type (Part-time, Freelance, Contract)
 Show only employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000
 split the employees’ full names into first name and last name. Check for duplicates and highlight if any (do not delete)
 
+##Solution
+![](Task1worksheet1.PNG)
 ![](Task1worksheet1.PNG)
 
 ![](TASK1Worksheet2.PNG)
